@@ -32,7 +32,7 @@ in original English fantasy fiction?**
 **Corpus A — Translated Chinese Fiction**
 Chinese-origin webnovels translated into English, drawn from the xianxia and xuanhuan genres. Likely source: WuxiaWorld and
 similar platforms, which offer large volumes of freely available translated text. These genres are ideal because they are dense
-with culturally-loaded vocabulary — cosmic hierarchy, sworn brotherhood, fate, spiritual cultivation — making source-language 
+with culturally-loaded vocabulary: cosmic hierarchy, sworn brotherhood, fate, spiritual cultivation, making source-language 
 influence especially plausible to observe.
 * Lord of the Mysteries
 * Reverend Insanity
@@ -55,7 +55,7 @@ a complete, presentable set of findings. Methodology is designed to scale.
 
 ## Target Words
 
-Words chosen for their cultural weight — each carries distinct connotations in Chinese cosmological, social, or philosophical contexts
+Words chosen for their cultural weight, each carries distinct connotations in Chinese cosmological, social, or philosophical contexts
 that may or may not survive translation intact:
 
 | Word                  | Axis of interest                                 |
