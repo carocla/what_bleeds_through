@@ -1,6 +1,6 @@
 # What Bleeds Through: An Embedding-Based Case Study of Conceptual Associations in Translated Fiction
 
-**Caroline Claeson - Independent Research Project**
+**Caro Claeson - Independent Research Project**
 
 ---
 
