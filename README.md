@@ -29,7 +29,7 @@ in original English fantasy fiction?**
 
 ## Corpora
 
-**Corpus A — Translated Chinese Fiction**
+**Corpus A - Translated Chinese Fiction**
 Chinese-origin webnovels translated into English, drawn from the xianxia and xuanhuan genres. Likely source: WuxiaWorld and
 similar platforms, which offer large volumes of freely available translated text. These genres are ideal because they are dense
 with culturally-loaded vocabulary: cosmic hierarchy, sworn brotherhood, fate, spiritual cultivation, making source-language 
@@ -39,7 +39,7 @@ influence especially plausible to observe.
 * I Shall Seal the Heavens
 * Way of Choices / Ze Tian Ji
 
-**Corpus B — Original English Fiction**
+**Corpus B - Original English Fiction**
 Epic or high fantasy fiction originally written in English, matched approximately for genre conventions: high stakes, world-building,
 martial themes, questions of fate and power. The goal is to isolate *cultural and linguistic origin* as the variable of interest,
 controlling as much as possible for genre.
