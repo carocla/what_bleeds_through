@@ -77,16 +77,16 @@ that may or may not survive translation intact:
 
 ## Methodology
 
-### Step 1 — Corpus Collection and Preprocessing
+### Step 1 - Corpus Collection and Preprocessing
 Collect and clean both corpora: tokenize, lowercase, remove formatting artifacts. No domain-specific stop list.
 
-### Step 2 — Word2Vec Training
+### Step 2 - Word2Vec Training
 Train separate word2vec models on each corpus from scratch using standard hyperparameters.
 The axis comparison method is robust to the non-comparability of independently trained vectors, since it compares 
 *relative distances within each model* rather than absolute coordinates across models. Both corpora share the same target 
 and anchor words, which serve as internal reference points.
 
-### Step 3 — Top-k Neighbor Comparison (Supplementary)
+### Step 3 - Top-k Neighbor Comparison (Supplementary)
 For each target word, extract the top-k nearest neighbors in each model and compare across corpora.
 
 Measures:
@@ -96,7 +96,7 @@ Measures:
 
 This supplementary analysis helps identify corpus-specific neighbors that can then be interpreted qualitatively. 
 
-### Step 4 — Conceptual Axis Comparison (Primary)
+### Step 4 - Conceptual Axis Comparison (Primary)
 For each target word, define two conceptual poles using hand-selected anchor words grounded in the cultural hypothesis. Measure cosine 
 distance from the target word to each pole, and compare the resulting orientation across corpora.
 
@@ -149,11 +149,11 @@ documentation and sensitivity checks
 
 ## Roadmap
 
-**Phase 1 — This Semester**
+**Phase 1 - This Semester**
 Corpus collection and cleaning, word2vec training, full axis analysis across all target words, qualitative neighbor analysis 
 for selected words, written report and presentation(?).
 
-**Phase 2 — Post-Semester (Tenative)**
+**Phase 2 - Post-Semester (Tenative)**
 Expand corpus size; add machine-translated Chinese fiction as a third condition to isolate translation method as a variable;
 explore vector space alignment methods for more direct cross-model comparison; consider submission to a venue such as the 
 ACL Student Research Workshop.
